@@ -1,9 +1,9 @@
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# YAKUGIKO !*!* <- alias :))
+digital artist ++ learning coding, editing
 
-# Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+# about me :D
+* val/valself // 14 . scorpio
+* asian !! eng/chi ,, learning japanese... zZz
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 
