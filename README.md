@@ -1,5 +1,6 @@
 # YAKUGIKO !*!* <- alias :))
 digital artist ++ learning coding, editing
+![alt text](03c48c7ff9c2889667b1887bf3c67936-removebg-preview.png)
 
 # about me :D
 * val/valself // 14 . scorpio
